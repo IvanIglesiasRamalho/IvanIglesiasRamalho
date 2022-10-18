@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanIglesiasRamalho
-- 👀 I’m interested in  C#
+- 👀 I’m interested in  C#, HTML5, CSS3, JAVASCRIP and React
 - 🌱 I’m currently learning  programação
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
